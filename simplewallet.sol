@@ -14,7 +14,7 @@ contract SimpleWallet {
         _to.transfer(_amount);
     }
 
-    function () external payable {
+    function() external payable {
 
     }
 
